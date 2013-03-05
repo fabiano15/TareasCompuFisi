@@ -80,7 +80,7 @@ int main(int argc, char **argv){
 	norm3=calcular_norma(eigenvecs,2);
 	
 	
-	crearArchivo2(eigenvecs,norm1,norm2,norm3);
+	crearArchivo2(eigenvecs,norma1,norma2,norma3);
 	
 
 	

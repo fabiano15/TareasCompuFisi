@@ -9,7 +9,7 @@
 #include <gsl/gsl_linalg.h>
 #include <gsl/gsl_cblas.h>
 
-#define USAGE "./a.out archivo.dat"
+#define USAGE "./a.out nombre.txt"
 void load_file(char*);
 void guardar_datos(float*,char*, int);
 void guardar_datos2(float*,char*, int);
